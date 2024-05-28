@@ -1,8 +1,20 @@
 # ResCaps
 
-Capsule Networks With Residual Pose Routing
+If you are interested in our work, please cite as follows:
 
-Submitted to IEEE Transactions on Neural Networks and Learning Systems.
+@article{liu2024capsule,
+
+  title={Capsule networks with residual pose routing},
+  
+  author={Liu, Yi and Cheng, De and Zhang, Dingwen and Xu, Shoukun and Han, Jungong},
+  
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  
+  year={2024},
+  
+  publisher={IEEE}
+  
+}.
 
 Results for the task of saliency detection have been released on 
 
